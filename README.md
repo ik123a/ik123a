@@ -6,6 +6,8 @@ $ ssh ishaan@github.dev
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=user%40github%3A~%24+whoami;%3E+Ishaan+Kumar+%7C+AI+Engineer;%3E+Building+AI+Browser+Autopilots;user%40github%3A~%24+./initialize_session.sh;%3E+Session+Initialized+Successfully+%E2%9C%93" alt="Typing SVG" />
 
+<img src="https://raw.githubusercontent.com/ik123a/ik123a/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Game" />
+
 </div>
 
 ---
@@ -136,7 +138,10 @@ $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 └───────────────────────────────────────────────────────────────────┘
 ```
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ik123a?cardType=level-alternate&theme=blue-green&preferLogin=false)]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ik123a&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ik123a&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 </div>
 
@@ -158,7 +163,7 @@ $ ./achievement_scanner.sh --unlock-trophies --display-matrix
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=ik123a&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ik123a&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4" alt="Trophy Matrix" />
 
 ```terminal
 ══════════════════════════════════════════════════════════════════════════════
@@ -183,8 +188,6 @@ $ curl -s "https://api.quotable.io/random?tags=technology" | jq '.content'
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ```
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=000000)
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=Always+coding%2C+always+learning%2C+always+growing..." alt="Motto"/>
 
