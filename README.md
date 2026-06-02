@@ -139,7 +139,13 @@ $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ik123a&show_icons=true&theme=tokyonight&cache_seconds=86400&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Rank-B%2B-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Rank" />
+  <img src="https://img.shields.io/badge/Commits_in_2026-324-00FF41?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Commits" />
+  <img src="https://img.shields.io/badge/Pull_Requests-3-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="PRs" />
+  <img src="https://img.shields.io/badge/Contributed_To-1-00FF41?style=for-the-badge&logo=git-lfs&logoColor=white&labelColor=000000" alt="Contributions" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ik123a&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
@@ -163,7 +169,11 @@ $ ./achievement_scanner.sh --unlock-trophies --display-matrix
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=ik123a&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&v=2" alt="Trophy Matrix" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Trophy-Pull_Shark-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Trophy-Quickdraw-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Trophy-Starstruck-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Starstruck" />
+</p>
 
 ```terminal
 ══════════════════════════════════════════════════════════════════════════════
