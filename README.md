@@ -139,8 +139,8 @@ $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ik123a&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ik123a&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ik123a&show_icons=true&theme=tokyonight&cache_seconds=86400&locale=en" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ik123a&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 </div>
@@ -163,7 +163,7 @@ $ ./achievement_scanner.sh --unlock-trophies --display-matrix
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=ik123a&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4" alt="Trophy Matrix" />
+<img src="https://github-profile-trophy.vercel.app/?username=ik123a&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&v=2" alt="Trophy Matrix" />
 
 ```terminal
 ══════════════════════════════════════════════════════════════════════════════
@@ -213,7 +213,7 @@ $ tail -f /var/log/visitors.access.log | grep -E "(GET|POST)" --color=always
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=ik123a&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Visitor Count](https://komarev.com/ghpvc/?username=ik123a&color=green&style=flat-square&label=Profile+Views)](https://github.com/ik123a)
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=Thanks+for+exploring+my+digital+workspace!;Ready+to+build+something+amazing+together%3F;Let's+connect+and+create+the+future!" alt="Closing Message"/>
 
