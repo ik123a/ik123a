@@ -54,7 +54,7 @@ $ netstat -tulpn | grep LISTEN
 └──────────────────────────┘
 ```
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+<a href="https://linkedin.com/in/ishaan-kumar04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000" alt="LinkedIn"/>
 </a>
 <a href="mailto:ishaanka111@gmail.com" target="_blank">
@@ -66,6 +66,24 @@ $ netstat -tulpn | grep LISTEN
 
 ```terminal
 ══════════════════════════════════════════════════════════════════════════════
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```terminal
+┌────────────────────────── FEATURED PROJECTS ──────────────────────────┐
+│                                                                       │
+│  🔐 VaultMind: Offline-First AI Security Proxy & MCP Gateway           │
+│     👉 https://github.com/ik123a/VaultMind                             │
+│                                                                       │
+│  🧺 Zipwash: Automated Laundry Service Application Platform            │
+│     👉 https://github.com/ik123a/Zipwash                               │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
