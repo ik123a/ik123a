@@ -77,11 +77,14 @@ $ netstat -tulpn | grep LISTEN
 ```terminal
 ┌────────────────────────── FEATURED PROJECTS ──────────────────────────┐
 │                                                                       │
-│  🔐 VaultMind: Offline-First AI Security Proxy & MCP Gateway           │
-│     👉 https://github.com/ik123a/VaultMind                             │
+│  🔐 ca-he: Cellular Automata Leveled Homomorphic Encryption (Rust)     │
+│     👉 https://github.com/ik123a/ca-he                                 │
 │                                                                       │
-│  🧺 Zipwash: Automated Laundry Service Application Platform            │
-│     👉 https://github.com/ik123a/Zipwash                               │
+│  🧪 agenttest: Deterministic Testing Framework for AI Agents (PyPI)   │
+│     👉 https://github.com/ik123a/agenttest                             │
+│                                                                       │
+│  🛡️ VaultMind: Secure Offline AI Developer Proxy & MCP Gateway        │
+│     👉 https://github.com/ik123a/VaultMind                             │
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ```
