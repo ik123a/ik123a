@@ -77,14 +77,23 @@ $ netstat -tulpn | grep LISTEN
 ```terminal
 ┌────────────────────────── FEATURED PROJECTS ──────────────────────────┐
 │                                                                       │
-│  🔐 ca-he: Cellular Automata Leveled Homomorphic Encryption (Rust)     │
-│     👉 https://github.com/ik123a/ca-he                                 │
+│  🔐 ca-he: Cellular Automata Leveled Homomorphic Encryption (Rust)    │
+│     👉 https://github.com/ik123a/ca-he                                │
+│                                                                       │
+│  🔮 Kairon: Causally-Aware Semantic Cache & Causal discovery (Python) │
+│     👉 https://github.com/ik123a/Kairon                               │
+│                                                                       │
+│  📊 Speculor: High-Performance Anomaly Detection Engine (C++)         │
+│     👉 https://github.com/ik123a/speculor                             │
 │                                                                       │
 │  🧪 agenttest: Deterministic Testing Framework for AI Agents (PyPI)   │
-│     👉 https://github.com/ik123a/agenttest                             │
+│     👉 https://github.com/ik123a/agenttest                            │
 │                                                                       │
-│  🛡️ VaultMind: Secure Offline AI Developer Proxy & MCP Gateway        │
-│     👉 https://github.com/ik123a/VaultMind                             │
+│  🛡️ VaultMind: Secure Offline AI Developer Proxy & MCP Gateway (TS) │
+│     👉 https://github.com/ik123a/VaultMind                            │
+│                                                                       │
+│  🚀 Fusion: Real-Time Collaborative Web IDE & Monaco Workspace (TS)   │
+│     👉 https://github.com/ik123a/fusion                               │
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ```
